@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am Satyam Majumder
+<h2 align="center"> Hi there 👋 I am Satyam Majumder</h2>
 <!-- (https://Xlaton25.github.io) -->
 
 <a href="https://in.linkedin.com/in/satyam-majumder-490027165">
@@ -41,6 +41,6 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <br />
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xlaton25.Xlaton25)
+![visitors](https://komarev.com/ghpvc/?username=Xlaton25)
 
 
