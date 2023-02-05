@@ -36,6 +36,9 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <div><p>My profile overview: </p></div>
 
 ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=Xlaton25&show_icons=true)
+<!-- ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaton25&show_icons=true&theme=transparent) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaton25&layout=compact)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xlaton25&repo=dsa)
 <br />
 <br />
 <br />
