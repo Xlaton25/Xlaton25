@@ -39,7 +39,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <!-- ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaton25&show_icons=true&theme=transparent) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaton25&layout=compact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xlaton25&repo=dsa)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ce8c4920-072a-477d-b79b-058d25f3f868)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ce8c4920-072a-477d-b79b-058d25f3f868)](https://github.com/xlaton25/github-readme-stats)
 <br />
 <br />
 <br />
