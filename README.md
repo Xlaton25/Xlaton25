@@ -21,7 +21,7 @@
 <div>
  <p>
 
-I am 20 years old and I'm pursuing B.Tech in Mechanical Engineering at National Institute of Technology,Agartala. 
+I am 22 years old and I'm pursuing B.Tech in Mechanical Engineering at National Institute of Technology,Agartala. 
 
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/xlaton25) page.
